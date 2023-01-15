@@ -4,3 +4,4 @@
 - 💬 Ask me about REST api design
 - 📫 How to reach me: https://www.linkedin.com/in/jonmwu/
 - ⚡ Fun fact: I regularly travel to Anime Conventions to sell artwork!
+Founded: Shounenstop.com
