@@ -1,5 +1,5 @@
 ### Hello! I'm Jon, Full stack engineer with a passion for Hexagonal architecture
-- 🔭 I’m currently working on something to help artists prosper
+- 👩🏻‍🍳 I’m currently working on something to help artists prosper
 - 🌱 I’m currently learning SolidJS/SolidStart
 - 💬 Ask me about REST api design
 - 📫 How to reach me: https://www.linkedin.com/in/jonmwu/
